@@ -10,7 +10,7 @@
 }
 html{
     scroll-behavior: smooth;
-    background-image: url(assets/img/pexels-kaboompics-com-6663.jpg);
+    background-image: url(./pexels-kaboompics-com-6663.jpg);
 }
 /* rgba(251, 255, 0, 0.856) */
 
@@ -168,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("assets/img/pexels-junior-teixeira-2047905.jpg") no-repeat center;
+    background: url("./pexels-junior-teixeira-2047905.jpg") no-repeat center;
     height: 100vh;
     color: #black;
     min-height: 300px;
@@ -308,7 +308,7 @@ section .title::after{
 
 /* skills section styling */
 .skills{
-    background-image: url(assets/img/pexels-kaboompics-com-6663.jpg );
+    background-image: url(./pexels-kaboompics-com-6663.jpg );
 }
 
 
@@ -389,7 +389,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .contact{
-    background-image:url(assets/img/pexels-kaboompics-com-6663.jpg)
+    background-image:url(./pexels-kaboompics-com-6663.jpg)
 
 }
 .contact .title::after{
